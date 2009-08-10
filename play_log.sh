@@ -1,7 +1,7 @@
 #!/bin/bash
 
 LOG_IN=$1
-BASE_URL="http://c17-tv-perf1.cnet.com"
+BASE_URL="http://c17-tv-stage3.cnet.com"
 FAKE_HOST="www.tv.com"
 #curl -v -H"Host: www.tv.com" http://c17-tv-perf1.cnet.com/
 
