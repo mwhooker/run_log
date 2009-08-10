@@ -1,0 +1,1 @@
+run parse_log.sh against any apache access log. redirect the output to any file. Run run_log.sh with the output of the previous command.
